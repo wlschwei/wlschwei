@@ -1,0 +1,112 @@
+    body {
+        font-family: 'Nanum Gothic', sans-serif;
+        background-color: #DDBEA8;
+        color: #160F29;
+    }
+    
+    h1 {
+        text-align: center;
+        color: #160F29;
+        background-color: #F3DFC1;
+        padding: 25px;
+        font-size: 50px;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+        margin-top: 0px;
+    }
+    
+    h3 {
+        text-align: center;
+    }
+    
+    table {
+        text-align: left;
+        width: 85%;
+        padding-left: 80px;
+    }
+    
+    h4 {
+        background-color: #F3DFC1;
+        padding: 20px;
+        text-align: center;
+        font-size: 20px;
+    }
+    
+    .petcohead {
+        float: left;
+        width: 20%;
+        padding: 10px;
+        height: 70px;
+        background-color: rgba(243, 223, 193, 0.459);
+    }
+    
+    .petco {
+        float: right;
+        width: 75%;
+        height: 100px;
+        background-color: #DDBEA8;
+    }
+    
+    .careerhead {
+        float: left;
+        Width: 20%;
+        padding: 10px;
+        height: 80px;
+        background-color: rgba(243, 223, 193, 0.459);
+    }
+    
+    .career {
+        float: right;
+        width: 75%;
+        height: 100px;
+        background-color: #DDBEA8;
+    }
+    
+    .RAhead {
+        float: left;
+        width: 20%;
+        padding: 10px;
+        height: 80px;
+        background-color: rgba(243, 223, 193, 0.459);
+    }
+    
+    .RA {
+        float: right;
+        width: 75%;
+        height: 100px;
+        background-color: #DDBEA8;
+    }
+    
+    .nikehead {
+        float: left;
+        width: 20%;
+        padding: 10px;
+        height: 110px;
+        background-color: rgba(243, 223, 193, 0.459);
+    }
+    
+    .nike {
+        float: right;
+        width: 75%;
+        height: 145px;
+        background-color: #DDBEA8;
+    }
+    
+    .education {
+        text-align: center;
+    }
+    
+    .edu {
+        list-style-type: none;
+    }
+    
+    .sk {
+        clear: both;
+    }
+    
+    footer {
+        padding: 10px;
+        background-color: rgba(243, 223, 193, 0.459);
+        text-align: center;
+    }
